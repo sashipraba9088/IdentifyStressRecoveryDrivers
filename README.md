@@ -2,7 +2,7 @@
 
 This repository contains code and resources used to identify the drivers of drought-induced stress and post-drought recovery in Eucalyptus forests, as described in our paper.
 
-Different preprocessing steps for dynamic, static and response varaibales are mentioned in this repo as mentioned in the paper.Area of Interest (AOI) are given as a shape file. OLS models were implemented to identify the lag and cummulative effect of the dynakic varaiables and codes used for ANN model hyperparameter tunning and training and sensitvity analysi are listed in the sub directory modelling. The source code provided is written in Python programming language and has been tested using Python 3.12. The main libraries used in this project include dask, tensorflow2.6.0 and Keras2.6.0.
+It includes preprocessing steps for dynamic, static, and response variables (AOI provided as a shapefile). OLS models were implemented to identify the lagged and cumulative effects of the dynamic variables, and the code for ANN hyperparameter tuning, training, and sensitivity analysis is located in the sub directory modelling. The source code provided is written in Python programming language and has been tested using Python 3.12. The source code is written in Python 3.12, and the main libraries used are Dask, TensorFlow 2.6.0, and Keras 2.6.0.
 - - - -
 SYSTEM REQUIREMENTS:
 Please make sure that the following Python packages are installed on your computer before running any of the above execution files:
