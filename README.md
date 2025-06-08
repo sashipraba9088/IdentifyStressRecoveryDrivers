@@ -6,6 +6,8 @@ It includes preprocessing steps for dynamic, static, and response variables (AOI
 - - - -
 SYSTEM REQUIREMENTS:
 Please make sure that the following Python packages are installed on your computer before running any of the above execution files:
+
+
 (1) NumPy (http://www.numpy.org/)
 
 
@@ -20,6 +22,8 @@ Please make sure that the following Python packages are installed on your comput
 (4) pandas (https://pandas.pydata.org/)
 - - - -
 DATA RESOURCES:
+
+
 (1) Please refer the provided Table 1 in the paper to download thestatic and dynamic varaiables used in this paper.
 
 
