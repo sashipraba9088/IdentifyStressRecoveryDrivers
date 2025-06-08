@@ -12,6 +12,6 @@ Please make sure that the following Python packages are installed on your comput
 (4) pandas (https://pandas.pydata.org/)
 - - - -
 DATA RESOURCES:
-(1) Please refere the provided Table 1 in the paper to download thestatic and dynamic varaiables used in this paper.
+(1) Please refer the provided Table 1 in the paper to download thestatic and dynamic varaiables used in this paper.
 (2) Response varaiable- This dataset was obtained using Google Earth Engine (https://code.earthengine.google.com/97960acc37b8d4a17612a6e3b583e2a8 and https://code.earthengine.google.com/b35112c71516df6381978a0298214c74)
 (3) CRI index - This index was developed using Gogle Earth ENgine (https://code.earthengine.google.com/?scriptPath=users%2Fnuwanthisashipraba%2FPHD_Chapter2%3AGrass_Tree_Factor_test5)
