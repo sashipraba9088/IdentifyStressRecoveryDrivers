@@ -2,7 +2,6 @@
 
 This repository contains code and resources used to identify the drivers of drought-induced stress and post-drought recovery in Eucalyptus forests, as described in our paper.
 
-<<<<<<< HEAD
 It includes preprocessing steps for dynamic, static, and response variables (AOI provided as a shapefile). OLS models were implemented to identify the lagged and cumulative effects of the dynamic variables, and the code for ANN hyperparameter tuning, training, and sensitivity analysis is located in the sub directory modelling. The source code provided is written in Python programming language and has been tested using Python 3.11.5. For specific code environment settings, please refer to DroughtDrivers_env.yml, which can be used to create a new virtual environment (DroughtDrivers).
 - - - -
 SYSTEM REQUIREMENTS:
