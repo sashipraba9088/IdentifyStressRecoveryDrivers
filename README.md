@@ -1,4 +1,4 @@
-# IdentifyStressRecoveryDrivers
+# IdentifyStressRecoveryDrivers 
 
 This repository contains code and resources used to identify the drivers of drought-induced stress and post-drought recovery in Eucalyptus forests, as described in our paper.
 
