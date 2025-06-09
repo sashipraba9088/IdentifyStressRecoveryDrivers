@@ -2,7 +2,11 @@
 
 This repository contains code and resources used to identify the drivers of drought-induced stress and post-drought recovery in Eucalyptus forests, as described in our paper.
 
+<<<<<<< HEAD
 It includes preprocessing steps for dynamic, static, and response variables (AOI provided as a shapefile). OLS models were implemented to identify the lagged and cumulative effects of the dynamic variables, and the code for ANN hyperparameter tuning, training, and sensitivity analysis is located in the sub directory modelling. The source code provided is written in Python programming language and has been tested using Python 3.11.5. For specific code environment settings, please refer to DroughtDrivers_env.yml, which can be used to create a new virtual environment (DroughtDrivers).
+=======
+It includes preprocessing steps for dynamic, static, and response variables (AOI provided as a shapefile). OLS models were implemented to identify the lagged and cumulative effects of the dynamic variables, and the code for ANN hyperparameter tuning, training, and sensitivity analysis is located in the sub directory modelling. The source code provided is written in Python programming language and has been tested using Python 3.12. The source code is written in Python 3.12, and the main libraries used are Dask, TensorFlow 2.6.0, and Keras 2.6.0.
+>>>>>>> 1360b30 (edited)
 - - - -
 SYSTEM REQUIREMENTS:
 Please make sure that the following Python packages are installed on your computer before running any of the above execution files:
@@ -22,12 +26,20 @@ Please make sure that the following Python packages are installed on your comput
 (4) pandas (https://pandas.pydata.org/)
 - - - -
 DATA RESOURCES:
+<<<<<<< HEAD
 
 
 (1) Please refer the provided Table 1 in the paper to download thestatic and dynamic varaiables used in this paper.
 
 
+=======
+(1) Please refere the provided Table 1 in the paper to download the static and dynamic varaiables used in this paper.
+>>>>>>> 1360b30 (edited)
 (2) Response varaiable- This dataset was obtained using Google Earth Engine (https://code.earthengine.google.com/97960acc37b8d4a17612a6e3b583e2a8 and https://code.earthengine.google.com/b35112c71516df6381978a0298214c74)
 
 
 (3) CRI index - This index was developed using Gogle Earth ENgine (https://code.earthengine.google.com/?scriptPath=users%2Fnuwanthisashipraba%2FPHD_Chapter2%3AGrass_Tree_Factor_test5)
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 1360b30 (edited)
